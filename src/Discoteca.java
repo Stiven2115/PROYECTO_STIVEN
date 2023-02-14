@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Age {
+public class Discoteca {
     public static void main(String[] args) {
         int age;
         Scanner lectura= new Scanner(System.in);
