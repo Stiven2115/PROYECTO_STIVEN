@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch operacion",
+            "request": "launch",
+            "mainClass": "operacion",
+            "projectName": "proyecto_2687390_f8bc95af"
+        },
+        {
+            "type": "java",
             "name": "Launch Age",
             "request": "launch",
             "mainClass": "Age",
