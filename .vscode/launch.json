@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Calculadora",
+            "request": "launch",
+            "mainClass": "Calculadora",
+            "projectName": "proyecto_2687390_f8bc95af"
+        },
+        {
+            "type": "java",
             "name": "Launch Nota",
             "request": "launch",
             "mainClass": "Nota",
